@@ -1,0 +1,12 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clubhouse": "pnpm -F clubhouse"
+  },
+  "keywords": [],
+  "author": "myno",
+  "license": "ISC"
+}
